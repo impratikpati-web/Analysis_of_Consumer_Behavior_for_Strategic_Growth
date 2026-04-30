@@ -1,1 +1,9 @@
 # Analysis_of_Consumer_Behavior_for_Strategic_Growth
+
+![Python](https://img.shields.io/badge/Python-EDA%20%7C%20Analysis-blue?logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboarding-yellow?logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio%20Project-black?logo=github)
+![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-green)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Insights%20%26%20Visualization-brightgreen)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Future%20Scope-orange)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
