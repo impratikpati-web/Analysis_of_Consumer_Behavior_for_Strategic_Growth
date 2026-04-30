@@ -1,1 +1,1 @@
-# Consumer-Behavior-for-Strategic-Growth
+# Analysis_of_Consumer_Behavior_for_Strategic_Growth
