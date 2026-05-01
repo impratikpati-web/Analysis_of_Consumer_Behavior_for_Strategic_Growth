@@ -71,3 +71,9 @@ The goal is to move beyond raw data to provide actionable insights, such as iden
 - ### Strategic Recommendations:
   Suggested (e.g., personalized discount codes for low-engagement groups) to boost overall growth.
 
+## Results & Business Impact
+
+- Helps businesses identify target customers.
+- Improves marketing ROI.
+- Supports customer retention strategies.
+- Enables data-driven strategic planning.
