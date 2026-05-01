@@ -17,6 +17,15 @@ This project focuses on analyzing consumer shopping patterns to drive data-drive
 
 The goal is to move beyond raw data to provide actionable insights, such as identifying high-value customer segments and optimizing marketing strategies based on age, gender, and spending habits.
 
+## Objectives
+
+- Understand customer purchasing behavior.
+- Identify key factors influencing consumer decisions.
+- Segment customers based on behavior and spending.
+- Provide insights for improving marketing strategies.
+- Support data-driven decision-making for business growth.
+
+
 ## Key Features and Analysis
 
 - ### Demographic Segmentation:
