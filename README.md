@@ -16,3 +16,5 @@ This repository contains a comprehensive end-to-end data analytics project desig
 This project focuses on analyzing consumer shopping patterns to drive data-driven decision-making and strategic business growth. By leveraging SQL for data extraction, Python for exploratory data analysis (EDA), and Power BI for visualization, I have uncovered key demographic trends and purchasing behaviors that influence revenue.
 
 The goal is to move beyond raw data to provide actionable insights, such as identifying high-value customer segments and optimizing marketing strategies based on age, gender, and spending habits.
+
+## Key Features and Analysis
