@@ -33,3 +33,7 @@ The goal is to move beyond raw data to provide actionable insights, such as iden
 
 - ### Interactive Dashboarding:
   Developed a Power BI dashboard to provide a high-level view of KPIs, including average order value (AOV) and customer retention trends.
+
+## Tech Stack
+
+- ### Language:
