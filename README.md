@@ -20,3 +20,4 @@ The goal is to move beyond raw data to provide actionable insights, such as iden
 ## Key Features and Analysis
 
 - ### Demographic Segmentation:
+  Categorized revenue and order volume by gender and age groups to identify the most active consumer segments.
