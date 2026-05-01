@@ -21,3 +21,15 @@ The goal is to move beyond raw data to provide actionable insights, such as iden
 
 - ### Demographic Segmentation:
   Categorized revenue and order volume by gender and age groups to identify the most active consumer segments.
+
+- ### Revenue Optimization:
+  Analyzed spending patterns to determine which demographics contribute most to total sales.
+
+- ### Exploratory Data Analysis (EDA):
+  Used Python (Pandas, Seaborn, Matplotlib) to identify correlations, handle missing data, and visualize distributions.
+
+- ### SQL Querying:
+  Performed complex joins and aggregations on transactional data to prepare datasets for visualization.
+
+- ### Interactive Dashboarding:
+  Developed a Power BI dashboard to provide a high-level view of KPIs, including average order value (AOV) and customer retention trends.
