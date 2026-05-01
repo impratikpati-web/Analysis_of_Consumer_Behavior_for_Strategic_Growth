@@ -34,6 +34,9 @@ The goal is to move beyond raw data to provide actionable insights, such as iden
 - ### Interactive Dashboarding:
   Developed a Power BI dashboard to provide a high-level view of KPIs, including average order value (AOV) and customer retention trends.
 
+  <img width="1195" height="656" alt="Screenshot 2026-05-01 145835" src="https://github.com/user-attachments/assets/081b993c-e105-4f73-823a-f33396c40d0e" />
+
+
 ## Tech Stack
 
 - ### Language:
@@ -49,8 +52,3 @@ The goal is to move beyond raw data to provide actionable insights, such as iden
   Jupyter Nootbook, Excel
 
 
-├── Data/                   # Raw and cleaned datasets (e.g., customer_shopping_behavior.csv)
-├── SQL_Queries/            # SQL scripts for data extraction and transformation
-├── Notebooks/              # Jupyter notebooks for EDA and statistical analysis
-├── Visualizations/         # Exported dashboard images or PDF reports
-└── README.md               # Project documentation
