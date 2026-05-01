@@ -51,4 +51,7 @@ The goal is to move beyond raw data to provide actionable insights, such as iden
 - ### Tools:
   Jupyter Nootbook, Excel
 
+## Key Insights
+
+
 
