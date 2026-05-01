@@ -85,3 +85,4 @@ This project highlights how data analysis can uncover valuable insights into con
 ## Author
 
 # PRATIK PATI
+### Data Analyst | Python | SQL | Power BI | EDA | Business Intelligence
