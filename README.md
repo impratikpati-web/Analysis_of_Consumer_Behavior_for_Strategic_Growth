@@ -62,5 +62,12 @@ The goal is to move beyond raw data to provide actionable insights, such as iden
 
 ## Key Insights
 
+- ### Gender Analysis:
+  Identified specific product categories where one gender significantly outspends the other, allowing for targeted advertising.
 
+- ### Age Trends:
+  Discovered that the (Insert Age Group, e.g., 25-35) segment shows the highest frequency of repeat purchases.
+
+- ### Strategic Recommendations:
+  Suggested (e.g., personalized discount codes for low-engagement groups) to boost overall growth.
 
