@@ -10,3 +10,5 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 This repository contains a comprehensive end-to-end data analytics project designed to decode complex shopping patterns and translate them into actionable business intelligence. By integrating financial acumen with technical analysis, this project demonstrates how data-driven strategies can optimize revenue and market positioning.
+
+## Project Overview
