@@ -37,3 +37,13 @@ The goal is to move beyond raw data to provide actionable insights, such as iden
 ## Tech Stack
 
 - ### Language:
+  Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+- ### Database:
+  PostgreSQL for data manipulation and extraction.
+
+- ### Visualization:
+  Power BI
+
+- ### Tools:
+  Jupyter Nootbook, Excel
