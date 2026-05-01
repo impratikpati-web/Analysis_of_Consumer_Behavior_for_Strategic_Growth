@@ -47,3 +47,10 @@ The goal is to move beyond raw data to provide actionable insights, such as iden
 
 - ### Tools:
   Jupyter Nootbook, Excel
+
+
+├── Data/                   # Raw and cleaned datasets (e.g., customer_shopping_behavior.csv)
+├── SQL_Queries/            # SQL scripts for data extraction and transformation
+├── Notebooks/              # Jupyter notebooks for EDA and statistical analysis
+├── Visualizations/         # Exported dashboard images or PDF reports
+└── README.md               # Project documentation
