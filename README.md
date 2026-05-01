@@ -8,3 +8,18 @@
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Insights%20%26%20Visualization-brightgreen)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Future%20Scope-orange)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+├── data/
+│   ├── raw_data.csv            # Original dataset
+│   └── cleaned_data.csv        # Processed data used for BI tools
+├── sql/
+│   ├── schema_setup.sql        # Database and table definitions
+│   ├── transformations.sql     # View creations and complex joins
+│   └── business_queries.sql    # Specific queries for KPI extraction
+├── notebooks/
+│   ├── eda_analysis.ipynb      # Python notebook for statistical analysis
+│   └── data_cleaning.ipynb     # Pre-processing scripts
+├── dashboards/
+│   ├── dashboard_preview.png   # Screenshot of the Power BI report
+│   └── insights_report.pdf     # Executive summary of findings
+└── README.md
