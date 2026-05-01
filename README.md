@@ -77,3 +77,11 @@ The goal is to move beyond raw data to provide actionable insights, such as iden
 - Improves marketing ROI.
 - Supports customer retention strategies.
 - Enables data-driven strategic planning.
+
+## Conclusion
+
+This project highlights how data analysis can uncover valuable insights into consumer behavior. The findings support better customer segmentation, targeted marketing, and data-driven decision-making, helping businesses improve performance and achieve strategic growth.
+
+## Author
+
+# PRATIK PATI
